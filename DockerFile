@@ -1,6 +1,6 @@
 FROM node:alpine AS builder
 
-ARG PROFILE=homolog
+ARG PROFILE=homologacao
 
 WORKDIR /app
 
